@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3625ab92-1c7c-42e9-a9b3-c8335e567be6" name="Default Changelist" comment="" />
+    <list default="true" id="3625ab92-1c7c-42e9-a9b3-c8335e567be6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Masterclass/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/HelloWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/.idea/copyright/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/Operators.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/out/production/Operators/com/timbuchalka/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/Java Programs/Variables,-Datatypes-and-Operators-Operators-In-Java-Source-code/src/com/timbuchalka/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/out/production/HelloWorld/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Masterclass/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="9" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="24" selection-end-column="9" />
+            <state relative-caret-position="289">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -95,7 +116,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1368" y="-55" width="1376" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -156,8 +176,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="9" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="24" selection-end-column="9" />
+        <state relative-caret-position="289">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
