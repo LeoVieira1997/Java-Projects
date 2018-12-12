@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a80ac8e-ac8f-4918-987e-e2b0035e9ccc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectsMasterclass/src/com/leonardovieira/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectsMasterclass/src/com/leonardovieira/MinutesToYearsDaysCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectsMasterclass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectsMasterclass/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +65,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,7 +159,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24240121" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2462006" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32850242" />
