@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4616c65-ce88-4392-b1a3-2664a0731dd7" name="Default Changelist" comment="" />
+    <list default="true" id="b4616c65-ce88-4392-b1a3-2664a0731dd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ParsingValuesFromString/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/DiagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/FactorPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/FirstLastDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/FlourPacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/GreatestCommonDivisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/LastDigitChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/NumberPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/SharedDigit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,10 +26,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/DigitSumChallenge.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/DiagonalStar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+            <state relative-caret-position="182">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -40,6 +54,18 @@
         <option value="$PROJECT_DIR$/src/com/leonardovieira/SumThreeAndFiveChallenge.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/SumOddRange.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/DigitSumChallenge.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/NumberPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/FirstLastDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/EvenDigitSum.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/SharedDigit.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/LastDigitChecker.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/GreatestCommonDivisor.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/FactorPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/PerfectNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/NumberToWords.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/FlourPacker.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/LargestPrime.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/DiagonalStar.java" />
       </list>
     </option>
   </component>
@@ -55,8 +81,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,7 +108,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544904494074" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545266340464" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -96,9 +122,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DigitSumChallenge">
-    <configuration name="DigitSumChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.DigitSumChallenge" />
+  <component name="RunManager" selected="Application.DiagonalStar">
+    <configuration name="DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.DiagonalStar" />
       <module name="SectionFiveChallenges" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +136,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberInWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.NumberInWord" />
+    <configuration name="FlourPacker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.FlourPacker" />
       <module name="SectionFiveChallenges" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfDaysInMonth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.NumberOfDaysInMonth" />
+    <configuration name="LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.LargestPrime" />
       <module name="SectionFiveChallenges" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +162,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOddRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.SumOddRange" />
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.NumberToWords" />
       <module name="SectionFiveChallenges" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +175,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumThreeAndFiveChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.SumThreeAndFiveChallenge" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.PerfectNumber" />
       <module name="SectionFiveChallenges" />
       <extension name="coverage">
         <pattern>
@@ -163,19 +189,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumberInWord" />
-      <item itemvalue="Application.NumberOfDaysInMonth" />
-      <item itemvalue="Application.SumThreeAndFiveChallenge" />
-      <item itemvalue="Application.SumOddRange" />
-      <item itemvalue="Application.DigitSumChallenge" />
+      <item itemvalue="Application.NumberToWords" />
+      <item itemvalue="Application.PerfectNumber" />
+      <item itemvalue="Application.FlourPacker" />
+      <item itemvalue="Application.LargestPrime" />
+      <item itemvalue="Application.DiagonalStar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DigitSumChallenge" />
-        <item itemvalue="Application.SumOddRange" />
-        <item itemvalue="Application.SumThreeAndFiveChallenge" />
-        <item itemvalue="Application.NumberOfDaysInMonth" />
-        <item itemvalue="Application.NumberInWord" />
+        <item itemvalue="Application.DiagonalStar" />
+        <item itemvalue="Application.LargestPrime" />
+        <item itemvalue="Application.FlourPacker" />
+        <item itemvalue="Application.NumberToWords" />
+        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +220,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1368" y="-55" width="1376" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
@@ -220,7 +247,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.32826748" />
+      <window_info anchor="right" id="Run" order="8" weight="0.337386" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -228,7 +255,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24240121" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24240121" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32850242" />
@@ -248,8 +275,44 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.32826748" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.337386" />
     </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/NumberPalindrome.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/NumberPalindrome.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/NumberPalindrome.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/NumberPalindrome.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/NumberPalindrome.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
@@ -287,10 +350,88 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/FirstLastDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/NumberPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/SharedDigit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="20" column="67" lean-forward="true" selection-start-line="20" selection-start-column="67" selection-end-line="20" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/LastDigitChecker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/GreatestCommonDivisor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/FactorPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/PerfectNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/NumberToWords.java" />
     <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/DigitSumChallenge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/EvenDigitSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/FlourPacker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="62" selection-start-line="15" selection-start-column="62" selection-end-line="15" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/LargestPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/DiagonalStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
