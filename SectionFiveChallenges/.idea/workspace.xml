@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4616c65-ce88-4392-b1a3-2664a0731dd7" name="Default Changelist" comment="" />
+    <list default="true" id="b4616c65-ce88-4392-b1a3-2664a0731dd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/src/com/leonardovieira/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/src/com/leonardovieira/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes/src/com/leonardovieira/VipCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/leonardovieira/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/leonardovieira/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/leonardovieira/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Inheritance/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/MinAndMaxInputChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/ReadingUserInputChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSixChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSixChallenge/SectionSixChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSixChallenge/src/com/leonardovieira/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSixChallenge/src/com/leonardovieira/JaguarFPace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSixChallenge/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSixChallenge/src/com/leonardovieira/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInput/out/production/ReadingUserInput/com/leonardovieira/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/out/production/ReadingUserInput/com/leonardovieira/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReadingUserInput/src/com/leonardovieira/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ReadingUserInput/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +34,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/DiagonalStar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -52,6 +66,8 @@
         <option value="$PROJECT_DIR$/src/com/leonardovieira/FlourPacker.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/LargestPrime.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/DiagonalStar.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/ReadingUserInputChallenge.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/MinAndMaxInputChallenge.java" />
       </list>
     </option>
   </component>
@@ -68,7 +84,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,10 +106,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545266872493" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545394741688" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DiagonalStar">
+  <component name="RunManager" selected="Application.MinAndMaxInputChallenge">
     <configuration name="DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leonardovieira.DiagonalStar" />
       <module name="SectionFiveChallenges" />
@@ -148,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.NumberToWords" />
+    <configuration name="MinAndMaxInputChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.MinAndMaxInputChallenge" />
       <module name="SectionFiveChallenges" />
       <extension name="coverage">
         <pattern>
@@ -161,8 +177,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.PerfectNumber" />
+    <configuration name="ReadingUserInputChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.ReadingUserInputChallenge" />
       <module name="SectionFiveChallenges" />
       <extension name="coverage">
         <pattern>
@@ -175,19 +191,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumberToWords" />
-      <item itemvalue="Application.PerfectNumber" />
+      <item itemvalue="Application.DiagonalStar" />
       <item itemvalue="Application.FlourPacker" />
       <item itemvalue="Application.LargestPrime" />
-      <item itemvalue="Application.DiagonalStar" />
+      <item itemvalue="Application.MinAndMaxInputChallenge" />
+      <item itemvalue="Application.ReadingUserInputChallenge" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinAndMaxInputChallenge" />
+        <item itemvalue="Application.ReadingUserInputChallenge" />
         <item itemvalue="Application.DiagonalStar" />
         <item itemvalue="Application.LargestPrime" />
         <item itemvalue="Application.FlourPacker" />
-        <item itemvalue="Application.NumberToWords" />
-        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +228,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.24240121" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.2462006" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32850242" />
@@ -240,7 +256,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.24240121" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24240121" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.32850242" />
@@ -260,7 +276,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.337386" />
+      <window_info anchor="right" id="Run" order="8" weight="0.337386" />
     </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
@@ -417,6 +433,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
           <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/ReadingUserInputChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/MinAndMaxInputChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
