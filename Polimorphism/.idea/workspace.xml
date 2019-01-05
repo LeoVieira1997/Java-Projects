@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0502fa74-e305-46f3-92b8-22288d3c367d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="54bb6453-2625-4242-8ec1-2103b0bba6e9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/Encapsulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/leonardovieira/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/leonardovieira/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Polimorphism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSevenChallenge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSevenChallenge/SectionSevenChallenge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSevenChallenge/src/com/leonardovieira/EncapsulationChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSevenChallenge/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionSevenChallenge/src/com/leonardovieira/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompositionChallenge/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,20 +29,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="437">
+              <caret line="76" column="57" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -37,12 +43,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/leonardovieira/Dimensions.java" />
-        <option value="$PROJECT_DIR$/src/com/leonardovieira/Table.java" />
-        <option value="$PROJECT_DIR$/src/com/leonardovieira/Bedroom.java" />
-        <option value="$PROJECT_DIR$/src/com/leonardovieira/Wardrobe.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/leonardovieira/Bed.java" />
       </list>
     </option>
   </component>
@@ -57,10 +58,24 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Polimorphism" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Polimorphism" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546102360155" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546623604144" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -77,7 +92,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.leonardovieira.Main" />
-      <module name="CompositionChallenge" />
+      <module name="Polimorphism" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -96,11 +111,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0502fa74-e305-46f3-92b8-22288d3c367d" name="Default Changelist" comment="" />
-      <created>1546099328518</created>
+      <changelist id="54bb6453-2625-4242-8ec1-2103b0bba6e9" name="Default Changelist" comment="" />
+      <created>1546618892830</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1546099328518</updated>
+      <updated>1546618892830</updated>
     </task>
     <servers />
   </component>
@@ -132,76 +147,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.32829046" />
+      <window_info anchor="right" id="Run" order="8" weight="0.34270516" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Dimensions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <element signature="method#getWidth#0;class#Dimensions#0" />
-            <element signature="method#getHeight#0;class#Dimensions#0" />
-            <element signature="method#getDepth#0;class#Dimensions#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Table.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding>
-            <element signature="method#Table#0;class#Table#0" />
-            <element signature="method#getDimensions#0;class#Table#0" />
-            <element signature="method#getMaterial#0;class#Table#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Wardrobe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="method#Wardrobe#0;class#Wardrobe#0" />
-            <element signature="method#getDimensions#0;class#Wardrobe#0" />
-            <element signature="method#getNumOfDoors#0;class#Wardrobe#0" />
-            <element signature="method#openDoor#0;class#Wardrobe#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Bedroom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="method#Bedroom#0;class#Bedroom#0" />
-            <element signature="method#getMyBed#0;class#Bedroom#0" />
-            <element signature="method#getMyTable#0;class#Bedroom#0" />
-            <element signature="method#getMyWardrobe#0;class#Bedroom#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Bed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="method#Bed#0;class#Bed#0" />
-            <element signature="method#getDimensions#0;class#Bed#0" />
-            <element signature="method#getType#0;class#Bed#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="437">
+          <caret line="76" column="57" selection-start-line="76" selection-start-column="57" selection-end-line="76" selection-end-column="57" />
         </state>
       </provider>
     </entry>
