@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="323d3b70-6fb7-478e-b213-2740f14a1abb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Encapsulation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Encapsulation/Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/leonardovieira/EnhancedPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/leonardovieira/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Encapsulation/src/com/leonardovieira/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Polimorphism/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Polimorphism/Polimorphism.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Polimorphism/src/com/leonardovieira/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SectionSevenChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/EncapsulationChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/HealthyBurguer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Printer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CompositionChallenge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CompositionChallenge/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="323d3b70-6fb7-478e-b213-2740f14a1abb" name="Default Changelist" comment="My Version of Master Challenge Section 7">
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/BaseHamburger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/DeluxeHamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SectionSevenChallenge/com/leonardovieira/Hamburger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SectionSevenChallenge/com/leonardovieira/Hamburger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SectionSevenChallenge/com/leonardovieira/HealthyBurguer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SectionSevenChallenge/com/leonardovieira/HealthyBurguer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SectionSevenChallenge/com/leonardovieira/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SectionSevenChallenge/com/leonardovieira/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leonardovieira/HealthyBurguer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leonardovieira/HealthyBurguer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leonardovieira/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leonardovieira/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,26 +24,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="123">
+              <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+              <folding>
+                <element signature="e#95#134#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="method#Hamburger#0;class#Hamburger#0" />
+                <element signature="method#printResult#0;class#Hamburger#0" />
+                <element signature="method#setMeat#0;class#Hamburger#0" />
+                <element signature="method#setChips#0;class#Hamburger#0" />
+                <element signature="method#setDrinks#0;class#Hamburger#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java">
+        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/DeluxeHamburger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-              <folding>
-                <element signature="method#printMenu#0;class#Hamburger#0" />
-                <element signature="method#getBread#0;class#Hamburger#0" />
-                <element signature="method#getTomato#0;class#Hamburger#0" />
-                <element signature="method#getLettuce#0;class#Hamburger#0" />
-                <element signature="method#getCarrot#0;class#Hamburger#0" />
-                <element signature="method#getOnion#0;class#Hamburger#0" />
-                <element signature="e#1651#1700#0" />
-              </folding>
+            <state relative-caret-position="17">
+              <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -59,22 +61,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/HealthyBurguer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-              <folding>
-                <element signature="method#getTomato#0;class#HealthyBurguer#0" />
-                <element signature="method#setTomato#0;class#HealthyBurguer#0" />
-                <element signature="method#getLettuce#0;class#HealthyBurguer#0" />
-                <element signature="method#setLettuce#0;class#HealthyBurguer#0" />
-                <element signature="method#getCarrot#0;class#HealthyBurguer#0" />
-                <element signature="method#setCarrot#0;class#HealthyBurguer#0" />
-                <element signature="method#getOnion#0;class#HealthyBurguer#0" />
-                <element signature="method#setOnion#0;class#HealthyBurguer#0" />
-                <element signature="method#getEgg#0;class#HealthyBurguer#0" />
-                <element signature="method#setEgg#0;class#HealthyBurguer#0" />
-                <element signature="method#getOlive#0;class#HealthyBurguer#0" />
-                <element signature="method#setOlive#0;class#HealthyBurguer#0" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/BaseHamburger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -98,8 +95,10 @@
         <option value="$PROJECT_DIR$/src/com/leonardovieira/Printer.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/Car.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java" />
-        <option value="$PROJECT_DIR$/src/com/leonardovieira/Main.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/HealthyBurguer.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/BaseHamburger.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/DeluxeHamburger.java" />
       </list>
     </option>
   </component>
@@ -142,7 +141,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546647676069" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546657733038" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,15 +194,15 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" weight="0.24240121" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24205749" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32850242" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32850242" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3993559" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
@@ -215,8 +214,234 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.3267776" />
+      <window_info anchor="right" id="Run" order="8" visible="true" weight="0.33888048" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My Version of Master Challenge Section 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Version of Master Challenge Section 7" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>58</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>62</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>75</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>79</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>81</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>83</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>85</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>87</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>91</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java</url>
+          <line>93</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/EncapsulationChallenge.java">
@@ -261,47 +486,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="108">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="method#Hamburger#0;class#Hamburger#0" />
+            <element signature="method#printResult#0;class#Hamburger#0" />
+            <element signature="method#setMeat#0;class#Hamburger#0" />
+            <element signature="method#setChips#0;class#Hamburger#0" />
+            <element signature="method#setDrinks#0;class#Hamburger#0" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/HealthyBurguer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/BaseHamburger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
           <folding>
-            <element signature="method#getTomato#0;class#HealthyBurguer#0" />
-            <element signature="method#setTomato#0;class#HealthyBurguer#0" />
-            <element signature="method#getLettuce#0;class#HealthyBurguer#0" />
-            <element signature="method#setLettuce#0;class#HealthyBurguer#0" />
-            <element signature="method#getCarrot#0;class#HealthyBurguer#0" />
-            <element signature="method#setCarrot#0;class#HealthyBurguer#0" />
-            <element signature="method#getOnion#0;class#HealthyBurguer#0" />
-            <element signature="method#setOnion#0;class#HealthyBurguer#0" />
-            <element signature="method#getEgg#0;class#HealthyBurguer#0" />
-            <element signature="method#setEgg#0;class#HealthyBurguer#0" />
-            <element signature="method#getOlive#0;class#HealthyBurguer#0" />
-            <element signature="method#setOlive#0;class#HealthyBurguer#0" />
+            <element signature="e#95#134#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Hamburger.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/DeluxeHamburger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-          <folding>
-            <element signature="method#printMenu#0;class#Hamburger#0" />
-            <element signature="method#getBread#0;class#Hamburger#0" />
-            <element signature="method#getTomato#0;class#Hamburger#0" />
-            <element signature="method#getLettuce#0;class#Hamburger#0" />
-            <element signature="method#getCarrot#0;class#Hamburger#0" />
-            <element signature="method#getOnion#0;class#Hamburger#0" />
-            <element signature="e#1651#1700#0" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="6" />
         </state>
       </provider>
     </entry>

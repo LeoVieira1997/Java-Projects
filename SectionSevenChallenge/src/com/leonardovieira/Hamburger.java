@@ -1,113 +1,115 @@
 package com.leonardovieira;
-
+import java.util.Scanner;
 public class Hamburger {
-    private int bread, meat;
-    private int tomato, lettuce, carrot, onion;
+    private int bread, additionals;
+    private boolean meat, tomato, lettuce, carrot, onion, chips, drinks;
 
-    public Hamburger(int bread, int meat) {
+    public Hamburger(int bread,int additionals) {
         this.bread = bread;
-        this.meat = meat;
-        printMenu();
+        this.additionals = additionals;
     }
 
-    public double calculatePrice(){
+    public void order(){
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("------------------ Additionals ---------------------");
+        for (int i = 0; i < additionals; i++){
+            System.out.println("Type a additional:");
+            if (scanner.hasNextInt()){
+                int answer = scanner.nextInt();
+                switch (answer){
+                    case 1:
+                        meat = true;
+                        break;
+                    case 2:
+                        tomato = true;
+                        break;
+                    case 3:
+                        lettuce = true;
+                        break;
+                    case 4:
+                        carrot = true;
+                        break;
+                    case 5:
+                        onion = true;
+                        break;
+                    case 6:
+                        chips = true;
+                        break;
+                    case 7:
+                        drinks = true;
+                }
+            }
+        }
+    }
+
+    public void calculatePrice(){
         double totalPrice = 0;
-        switch(getBread()){
-            case 1:
+        String order = "";
+        int add = 0;
+        while (add <= additionals) {
+            switch (bread) {
+                case 1:
+                    totalPrice += 1.25;
+                    order = "Bill's Burger";
+                    break;
+                case 2:
+                    totalPrice += 1.50;
+                    order = "Healthy Burger";
+                    break;
+                case 3:
+                    totalPrice += 1.50;
+                    order = "Deluxe Burger";
+                    break;
+                default:
+                    totalPrice += 1.25;
+                    order = "Bill's Burger";
+                    break;
+            }
+            if (meat) {
                 totalPrice += 1.25;
-                break;
-            case 2:
-                totalPrice += 1.75;
-                break;
-            case 3:
-                totalPrice += 2.00;
-                break;
-            default:
+                add++;
+            }
+            if (tomato) {
+                totalPrice += 0.50;
+                add++;
+            }
+            if (lettuce) {
+                totalPrice += 0.30;
+                add++;
+            }
+            if (carrot) {
+                totalPrice += 0.25;
+                add++;
+            }
+            if (onion) {
+                totalPrice += 0.35;
+                add++;
+            }
+            if (chips) {
+                totalPrice += 1.00;
+                add++;
+            }
+            if (drinks) {
                 totalPrice += 1.25;
-                break;
+                add++;
+            }
         }
-        switch(getMeat()){
-            case 1:
-                totalPrice += 1.25;
-                break;
-            case 2:
-                totalPrice += 1.75;
-                break;
-            case 3:
-                totalPrice += 2.00;
-                break;
-            default:
-                totalPrice += 1.25;
-                break;
-        }
-        totalPrice += ((0.50 * getTomato()) + (0.30 * getLettuce()) + (0.25 * getCarrot()) + (0.35 * getOnion()));
-        return totalPrice;
+            printResult(totalPrice, order);
     }
 
-    public void printMenu(){
-        System.out.println(" Bill's Hamburguer: $2.50 + additionals ");
-        System.out.println(" Healthy Hamburguer: $3.00 + additionals ");
-        System.out.println(" Deluxe Hamburguer: $8.00 with chips and drinks ");
-        System.out.println(" --------------- Additionals --------------------");
-        System.out.println(" Tomato: $0.50");
-        System.out.println(" Lettuce: $0.30");
-        System.out.println(" Carrot: $0.25");
-        System.out.println(" Onion: $0.35");
+    public void printResult(double totalPrice, String order){
+        System.out.println("You've asked a " + order + ". The final value is " + totalPrice);
     }
 
-    public int getBread() {
-        return bread;
+    public void setMeat(boolean meat) {
+        this.meat = meat;
     }
 
-    public int getTomato() {
-        return tomato;
+    public void setChips(boolean chips) {
+        this.chips = chips;
     }
 
-    public int getLettuce() {
-        return lettuce;
+    public void setDrinks(boolean drinks) {
+        this.drinks = drinks;
     }
-
-    public int getCarrot() {
-        return carrot;
-    }
-
-    public int getOnion() {
-        return onion;
-    }
-
-    public int getMeat() {
-        return meat;
-    }
-
-    //    public void setTomato(int tomato, int order) {
-//        if ((getCarrot() + getLettuce() + getOnion() + getTomato()) >= order){
-//            System.out.println("You already selected all additionals");
-//        } else {
-//            this.tomato = tomato;
-//        }
-//    }
-//
-//    public void setLettuce(int lettuce, int order) {
-//        if ((getCarrot() + getLettuce() + getOnion() + getTomato()) >= order){
-//            System.out.println("You already selected all additionals");
-//        } else {
-//            this.lettuce = lettuce;
-//        }
-//    }
-//
-//    public void setCarrot(int carrot, int order) {
-//        if ((getCarrot() + getLettuce() + getOnion() + getTomato()) >= order){
-//            System.out.println("You already selected all additionals");
-//        } else {
-//            this.carrot = carrot;
-//        }
-//    }
-//
-//    public void setOnion(int onion, int order) {
-//        if ((getCarrot() + getLettuce() + getOnion() + getTomato()) >= order){
-//            System.out.println("You already selected all additionals");
-//        } else {
-//            this.onion = onion;
-//        }
-//    }
 }
