@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40ce2a1c-16c9-4d03-9679-f370fbdc7c49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/AutoboxingAndUnboxing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AutoboxingAndUnboxing/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionEightChallenges/src/com/leonardovieira/Contacts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionEightChallenges/src/com/leonardovieira/MobilePhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/SectionEightTeachersExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/src/com/leonardovieira/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/src/com/leonardovieira/MobilePhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/out/production/ListAndArrayList/com/leonardovieira/GroceryList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/out/production/ListAndArrayList/com/leonardovieira/GroceryList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/out/production/ListAndArrayList/com/leonardovieira/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/out/production/ListAndArrayList/com/leonardovieira/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/src/com/leonardovieira/GroceryList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/src/com/leonardovieira/GroceryList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ListAndArrayList/src/com/leonardovieira/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ListAndArrayList/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SectionEightChallenges/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SectionEightChallenges/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+              <folding>
+                <element signature="method#main#0;class#Main#0" />
+                <element signature="method#startApplication#0;class#Main#0" />
+                <element signature="method#addNewBranch#0;class#Main#0" />
+                <element signature="method#addNewCustomer#0;class#Main#0" />
+                <element signature="method#addNewTransaction#0;class#Main#0" />
+                <element signature="method#printList#0;class#Main#0" />
+                <element signature="method#printActions#0;class#Main#0" />
+                <element signature="method#listOptions#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Bank.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="method#addNewBranch#0;class#Bank#0" />
+                <element signature="method#printBranches#0;class#Bank#0" />
+                <element signature="method#findBranch#0;class#Bank#0" />
+                <element signature="method#getBranches#0;class#Bank#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Branch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+              <folding>
+                <element signature="method#Branch#0;class#Branch#0" />
+                <element signature="method#addNewCustomer#0;class#Branch#0" />
+                <element signature="method#addNewTransaction#0;class#Branch#0" />
+                <element signature="method#findCustomer#0;class#Branch#0" />
+                <element signature="method#printCustomerList#0;class#Branch#0" />
+                <element signature="method#printCustomerAndTransactions#0;class#Branch#0" />
+                <element signature="method#printCustomerAndBalances#0;class#Branch#0" />
+                <element signature="method#getName#0;class#Branch#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Customer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+              <folding>
+                <element signature="method#Customer#0;class#Customer#0" />
+                <element signature="method#getName#0;class#Customer#0" />
+                <element signature="method#getTransactions#0;class#Customer#0" />
+                <element signature="method#setTransactions#0;class#Customer#0" />
+                <element signature="method#getBalance#0;class#Customer#0" />
+                <element signature="method#setBalance#0;class#Customer#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/Branch.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/Bank.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/Customer.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BankProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leonardovieira" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547734860557" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.leonardovieira.Main" />
+      <module name="BankProject" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40ce2a1c-16c9-4d03-9679-f370fbdc7c49" name="Default Changelist" comment="" />
+      <created>1547719954240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547719954240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.24130106" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32850242" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3993559" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Run" order="8" weight="0.3419062" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="65" column="42" selection-start-line="65" selection-start-column="42" selection-end-line="65" selection-end-column="42" />
+          <folding>
+            <element signature="method#main#0;class#Main#0" />
+            <element signature="method#startApplication#0;class#Main#0" />
+            <element signature="method#addNewBranch#0;class#Main#0" />
+            <element signature="method#addNewCustomer#0;class#Main#0" />
+            <element signature="method#addNewTransaction#0;class#Main#0" />
+            <element signature="method#printList#0;class#Main#0" />
+            <element signature="method#printActions#0;class#Main#0" />
+            <element signature="method#listOptions#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="method#addNewBranch#0;class#Bank#0" />
+            <element signature="method#printBranches#0;class#Bank#0" />
+            <element signature="method#findBranch#0;class#Bank#0" />
+            <element signature="method#getBranches#0;class#Bank#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Branch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="46" column="46" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+          <folding>
+            <element signature="method#Branch#0;class#Branch#0" />
+            <element signature="method#addNewCustomer#0;class#Branch#0" />
+            <element signature="method#addNewTransaction#0;class#Branch#0" />
+            <element signature="method#findCustomer#0;class#Branch#0" />
+            <element signature="method#printCustomerList#0;class#Branch#0" />
+            <element signature="method#printCustomerAndTransactions#0;class#Branch#0" />
+            <element signature="method#printCustomerAndBalances#0;class#Branch#0" />
+            <element signature="method#getName#0;class#Branch#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="method#Customer#0;class#Customer#0" />
+            <element signature="method#getName#0;class#Customer#0" />
+            <element signature="method#getTransactions#0;class#Customer#0" />
+            <element signature="method#setTransactions#0;class#Customer#0" />
+            <element signature="method#getBalance#0;class#Customer#0" />
+            <element signature="method#setBalance#0;class#Customer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

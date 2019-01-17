@@ -1,5 +1,6 @@
 package com.leonardovieira;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
@@ -36,6 +37,9 @@ public class Main {
                     searchForItem();
                     break;
                 case 6:
+                    processArrayList();
+                    break;
+                case 7:
                     quit = true;
                     break;
                 default:
@@ -54,6 +58,7 @@ public class Main {
         System.out.println("\t 4 - To remove an item from the list.");
         System.out.println("\t 5 - To search for an item in the list.");
         System.out.println("\t 6 - To quit the application.");
+        System.out.println("\t 7 - To quit the application.");
     }
 
     public static void addItem(){
@@ -62,27 +67,36 @@ public class Main {
     }
 
     public static void modifyItem(){
-        System.out.print("Enter item number: ");
-        int itemNo = scanner.nextInt();
-        scanner.nextLine();
+        System.out.print("Enter item name: ");
+        String itemNo = scanner.nextLine();
         System.out.println("Enter replacement item: ");
         String newItem = scanner.nextLine();
-        groceryList.modifyGroceryItem(itemNo-1, newItem);
+        groceryList.modifyGroceryItem(itemNo,newItem);
     }
 
     public static void removeItem(){
-        System.out.println("Enter item number: ");
-        int itemNo = scanner.nextInt();
-        groceryList.removeGroceryItem(itemNo-1);
+        System.out.println("Enter item name: ");
+        String itemNo = scanner.nextLine();
+        groceryList.removeGroceryItem(itemNo);
     }
 
     public static void searchForItem(){
         System.out.println("Item to search for: ");
         String searchItem = scanner.nextLine();
-        if (groceryList.findItem(searchItem) != null){
+        if (groceryList.onFile(searchItem)){
             System.out.println("Found " + searchItem + " in your grocery list");
         } else{
             System.out.println(searchItem + " is not in the shopping list");
         }
+    }
+
+    public static void processArrayList(){
+        ArrayList<String> newArrayList = new ArrayList<String>();
+        newArrayList.addAll(groceryList.getGroceryList());
+
+        ArrayList<String> anotherArray = new ArrayList<String>(groceryList.getGroceryList());
+
+        String[] myArray = new String[groceryList.getGroceryList().size()];
+        myArray = groceryList.getGroceryList().toArray(myArray);
     }
 }
