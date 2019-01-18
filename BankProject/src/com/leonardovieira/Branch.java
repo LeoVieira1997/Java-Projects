@@ -56,7 +56,7 @@ public class Branch{
     public void printCustomerAndBalances(){
         System.out.println("List of customers and their respective balances");
         for(int i=0; i<customers.size(); i++){
-            System.out.println((i+1) +
+            System.out.println((i+1) + ". " +
                     customers.get(i).getName() + ": " +
                     customers.get(i).getBalance());
         }

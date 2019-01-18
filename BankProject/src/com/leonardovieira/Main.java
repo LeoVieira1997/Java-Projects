@@ -68,7 +68,6 @@ public class Main {
         String branchName = scanner.nextLine();
         if(bank.findBranch(branchName) >= 0){
             System.out.println("Enter the customer's name: ");
-//    ----------------- scanner.nextLine(); -------------------   ---> é uma sugestão, não testei ainda
             String customerName = scanner.nextLine();
             int existingClient = bank.getBranches().get(bank.findBranch(branchName)).findCustomer(customerName);
             if(existingClient >= 0){
