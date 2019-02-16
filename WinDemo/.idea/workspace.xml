@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="016b98ee-e70e-4313-a3d7-bcbf5ef17dc4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/AbstractClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/leonardovieira/ListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/leonardovieira/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/leonardovieira/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/leonardovieira/NodeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AbstractClasses/src/com/leonardovieira/SearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/Abstraction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/leonardovieira/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/leonardovieira/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/leonardovieira/CanFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/leonardovieira/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/leonardovieira/Parrot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Abstraction/src/com/leonardovieira/Penguin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colecao/Colecao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colecao/src/com/leonardovieira/ColecaoList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colecao/src/com/leonardovieira/ColecaoMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colecao/src/com/leonardovieira/ColecaoQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colecao/src/com/leonardovieira/ColecaoSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colecao/src/com/leonardovieira/ColecaoUtilitario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colecao/src/com/leonardovieira/Generico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Colecao/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/Generics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/leonardovieira/BaseballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/leonardovieira/FootballPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/leonardovieira/LeagueTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/leonardovieira/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/leonardovieira/SoccerPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/com/leonardovieira/Team.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Packages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/example/awtSample/MyWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Gearbox$Gear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Gearbox$Gear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Gearbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Gearbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Gearbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SectionEightTeachersExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SectionEightTeachersExample/out/production/SectionEightTeachersExample/com/leonardovieira/Album.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/out/production/SectionEightTeachersExample/com/leonardovieira/Album.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SectionEightTeachersExample/out/production/SectionEightTeachersExample/com/leonardovieira/TestPlayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/out/production/SectionEightTeachersExample/com/leonardovieira/TestPlayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SectionEightTeachersExample/src/com/leonardovieira/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/src/com/leonardovieira/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SectionEightTeachersExample/src/com/leonardovieira/TestPlayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SectionEightTeachersExample/src/com/leonardovieira/TestPlayList.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/MyWindow.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/MyWindow.java" />
+        <option value="$PROJECT_DIR$/src/com/example/awtSample/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1282" />
+    <option name="y" value="-60" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WinDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WinDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="awtSample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.datatransfer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.datatransfer" type="462c0819:PsiDirectoryNode" />
+              <item name="datatransfer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.desktop" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="awt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WinDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 11 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="java.sql.rowset" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549993365858" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.awtSample.Main" />
+      <module name="WinDemo" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="016b98ee-e70e-4313-a3d7-bcbf5ef17dc4" name="Default Changelist" comment="" />
+      <created>1549989682173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549989682173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1368" y="-55" width="1376" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24240121" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Run" order="8" weight="0.32826748" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/event/WindowAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.desktop/java/awt/event/WindowEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/example/awtSample/MyWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

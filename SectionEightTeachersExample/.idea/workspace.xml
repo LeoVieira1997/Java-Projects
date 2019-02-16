@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d817321-a83b-4bfe-9298-58a042a8dcf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Interfaces/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/Interfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/leonardovieira/DeskPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/leonardovieira/ITelephone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/leonardovieira/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Interfaces/src/com/leonardovieira/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LinkedList/src/com/leonardovieira/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlaylistProject/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlaylistProject/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlaylistProject/PlaylistProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlaylistProject/src/com/leonardovieira/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlaylistProject/src/com/leonardovieira/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlaylistProject/src/com/leonardovieira/Playlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PlaylistProject/src/com/leonardovieira/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Branch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/TestBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leonardovieira/TestPlayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BankProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BankProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Button.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Gearbox$Gear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Gearbox$Gear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Gearbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Gearbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/out/production/InnerClasses/com/leonardovieira/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Gearbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Gearbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/src/com/leonardovieira/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leonardovieira/Album.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leonardovieira/Album.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leonardovieira/TestPlayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leonardovieira/TestPlayList.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,7 +20,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -58,14 +43,14 @@
         <option value="$PROJECT_DIR$/src/com/leonardovieira/Bank.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/TestBank.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/Song.java" />
-        <option value="$PROJECT_DIR$/src/com/leonardovieira/Album.java" />
         <option value="$PROJECT_DIR$/src/com/leonardovieira/TestPlayList.java" />
+        <option value="$PROJECT_DIR$/src/com/leonardovieira/Album.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1286" />
-    <option name="y" value="-64" />
+    <option name="x" value="-1389" />
+    <option name="y" value="-59" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
@@ -74,10 +59,35 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SectionEightTeachersExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SectionEightTeachersExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SectionEightTeachersExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SectionEightTeachersExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SectionEightTeachersExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SectionEightTeachersExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leonardovieira" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548215028007" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549291522283" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,7 +187,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Run" order="8" weight="0.32753405" />
+      <window_info anchor="right" id="Run" order="8" weight="0.3260212" />
     </layout>
   </component>
   <component name="editorHistoryManager">
@@ -192,13 +202,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="101" column="127" selection-start-line="101" selection-start-column="127" selection-end-line="101" selection-end-column="127" />
         </state>
       </provider>
     </entry>
@@ -237,21 +240,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/TestPlayList.java">
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="31" column="44" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
-          <folding>
-            <element signature="method#play#0;class#TestPlayList#0" />
-            <element signature="method#printMenu#0;class#TestPlayList#0" />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="101" column="127" selection-start-line="101" selection-start-column="127" selection-end-line="101" selection-end-column="127" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/Album.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="43" column="47" selection-start-line="43" selection-start-column="47" selection-end-line="43" selection-end-column="47" />
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -259,6 +258,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/leonardovieira/TestPlayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="55" lean-forward="true" selection-start-line="8" selection-start-column="55" selection-end-line="8" selection-end-column="55" />
+          <folding>
+            <element signature="method#play#0;class#TestPlayList#0" />
+            <element signature="method#printMenu#0;class#TestPlayList#0" />
+          </folding>
         </state>
       </provider>
     </entry>
